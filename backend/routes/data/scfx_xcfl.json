@@ -1,0 +1,38 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "XCFL": "城市",
+        "AVG_DDXCSC": 12.66,
+        "AVG_DDXCJSL": 100,
+        "TJRQ": "2019-03-22",
+        "SJRQ": "2019-03-22"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "XCFL": "农村",
+        "AVG_DDXCSC": 12.26,
+        "AVG_DDXCJSL": 100,
+        "TJRQ": "2019-03-22",
+        "SJRQ": "2019-03-22"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "XCFL": "特殊边远山区",
+        "AVG_DDXCSC": 0,
+        "AVG_DDXCJSL": 0,
+        "TJRQ": "2019-03-22",
+        "SJRQ": "2019-03-22"
+    }],
+    "dicItems": []
+}

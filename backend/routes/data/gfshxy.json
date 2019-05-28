@@ -1,0 +1,31 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "JYBZM": 10.8944,
+        "CO2": 28.5434,
+        "SO2": 0.0926,
+        "NO2": 0.0806,
+        "DATATYPE": 0,
+        "TJRQ": 1553416419000,
+        "SJRQ": 1553416419000
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "JYBZM": 22.3277,
+        "CO2": 58.4985,
+        "SO2": 0.1898,
+        "NO2": 0.1652,
+        "DATATYPE": 1,
+        "TJRQ": 1553416419000,
+        "SJRQ": 1553416419000
+    }],
+    "dicItems": []
+}

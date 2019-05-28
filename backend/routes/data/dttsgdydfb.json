@@ -1,0 +1,102 @@
+{
+  "itemCount": 0,
+  "items": [
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 1,
+      "DNGDSL": 10,
+      "QNGDSL": 12,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 2,
+      "DNGDSL": 6,
+      "QNGDSL": 4,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 3,
+      "DNGDSL": 20,
+      "QNGDSL": 9,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 4,
+      "DNGDSL": null,
+      "QNGDSL": 12,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 5,
+      "DNGDSL": null,
+      "QNGDSL": 1,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 6,
+      "DNGDSL": null,
+      "QNGDSL": 3,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 7,
+      "DNGDSL": null,
+      "QNGDSL": 9,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 8,
+      "DNGDSL": null,
+      "QNGDSL": 13,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 9,
+      "DNGDSL": null,
+      "QNGDSL": 3,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 10,
+      "DNGDSL": null,
+      "QNGDSL": 1,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 11,
+      "DNGDSL": null,
+      "QNGDSL": 4,
+      "TB": null
+    },
+    {
+      "ORG_NO": "370212",
+      "ORG_NAME": "崂山区",
+      "MONS": 12,
+      "DNGDSL": null,
+      "QNGDSL": 1,
+      "TB": null
+    }
+  ],
+  "dicItems": []
+}

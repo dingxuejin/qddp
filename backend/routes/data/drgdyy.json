@@ -1,0 +1,94 @@
+{
+  "itemCount": 0,
+  "items": [
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "自然原因",
+      "GDSL": 0,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "运行维护不当",
+      "GDSL": 3,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "外力破坏",
+      "GDSL": 0,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "停限电",
+      "GDSL": 11,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "设备本体",
+      "GDSL": 3,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "客户原因",
+      "GDSL": 13,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "安装不当",
+      "GDSL": 0,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    },
+    {
+      "DATAFLAG": 0,
+      "ORGNO_CITY": "37402",
+      "ORGNAME_CITY": "青岛供电公司",
+      "ORG_NO": "37402",
+      "ORG_NAME": "青岛供电公司",
+      "GDYY": "35kV及以上输变电设施影响",
+      "GDSL": 0,
+      "TJRQ": "2019-03-22",
+      "SJRQ": "2019-03-22"
+    }
+  ],
+  "dicItems": []
+}

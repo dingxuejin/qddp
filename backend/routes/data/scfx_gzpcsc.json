@@ -1,0 +1,124 @@
+{
+    "itemCount": 0,
+    "items": [
+        {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 38.18,
+        "AVG_GZPCSC": 30.46,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740220",
+        "ORG_NAME": "胶州市-客户服务-中心",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 45.68,
+        "AVG_GZPCSC": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740221",
+        "ORG_NAME": "即墨市客户服务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 65.81,
+        "AVG_GZPCSC": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740222",
+        "ORG_NAME": "平度市客户服务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南市客户服务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 71.74,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南市客户服务中心1",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 71.74,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南市客户服务中心2",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 71.74,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南市客户服务中心3",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 71.74,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+     {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南-市客-户服务中心4",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 83.97,
+        "AVG_GZPCSC": 71.74,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西-市客户-服务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_GZCLSC": 0,
+        "AVG_GZPCSC": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }],
+    "dicItems": []
+}

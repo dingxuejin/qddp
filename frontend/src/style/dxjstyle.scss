@@ -1,0 +1,99 @@
+.rowbox {
+  display: flex;
+  flex-direction: row;
+}
+
+.colbox {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex {
+  flex: 1;
+}
+.startbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.endbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+.centerbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.betweenbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between;
+  align-items: center;
+}
+
+.aroundbox {
+  display: flex;
+  flex-direction: row;
+  align-content: space-around;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@for $i from 1 through 9 {
+  .#{fade+$i}-enter-active {
+    animation: myfirst #{random(1000)+1000}ms;
+  }
+}
+
+@keyframes myfirst {
+  0% {
+    width: 20px;
+    height: 0px;
+  }
+
+  70% {
+    width: 20px;
+    height: 100%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.opacity1-enter-active {
+  animation: mysecond 1000ms;
+}
+
+@keyframes mysecond {
+  0% {
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 0.7;
+  }
+
+  30% {
+    opacity: 0.2;
+  }
+
+  50% {
+    opacity: 0.9;
+  }
+
+  60% {
+    opacity: 0.3;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

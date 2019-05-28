@@ -1,0 +1,24 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "3702",
+        "ORGNAME_CITY": "青岛市",
+        "ORG_NO": "3702",
+        "ORG_NAME": "青岛市",
+        "GDFW": 0,
+        "DWJS": 437,
+        "TSDWT": 555,
+        "GDZL": 43,
+        "YDFWXQ": 7,
+        "DFCHS": 9,
+        "YDYCHS": 66,
+        "YDYW": 55,
+        "FWQD": 2,
+        "YDXXBG": 1,
+        "YHXX": 1,
+        "TJRQ": "2019-04-18",
+        "SJRQ": "2019-01-01"
+    }],
+    "dicItems": []
+}

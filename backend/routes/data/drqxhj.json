@@ -1,0 +1,25 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DN_AVG_JDPG": 1.26,
+        "DN_AVG_ZDJD": 2.45,
+        "DN_AVG_DDXC": 14.18,
+        "DN_AVG_XCCL": 23.45,
+        "DN_AVG_GZCX": 37.64,
+        "DN_AVG_GZSH": 1.28,
+        "QN_AVG_JDPG": 1.15,
+        "QN_AVG_ZDJD": 1.27,
+        "QN_AVG_DDXC": 13,
+        "QN_AVG_XCCL": 33.75,
+        "QN_AVG_GZCX": 46.76,
+        "QN_AVG_GZSH": 0.81,
+        "TJRQ": "2019-03-25",
+        "SJRQ": "2019-03-25"
+    }],
+    "dicItems": []
+}

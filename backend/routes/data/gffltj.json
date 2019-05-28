@@ -1,0 +1,44 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DYDJ": "01",
+        "BWSL": 47,
+        "BWSLZB": 0,
+        "ZJRL": 184434,
+        "ZJRLZB": 0.32,
+        "TJRQ": 1553419499000,
+        "SJRQ": 1553419499000
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DYDJ": "03",
+        "BWSL": 6240,
+        "BWSLZB": 0.39,
+        "ZJRL": 38027.76,
+        "ZJRLZB": 0.07,
+        "TJRQ": 1553419499000,
+        "SJRQ": 1553419499000
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DYDJ": "02",
+        "BWSL": 9615,
+        "BWSLZB": 0.6,
+        "ZJRL": 361241.76,
+        "ZJRLZB": 0.62,
+        "TJRQ": 1553419499000,
+        "SJRQ": 1553419499000
+    }],
+    "dicItems": []
+}

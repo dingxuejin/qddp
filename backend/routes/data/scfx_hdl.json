@@ -1,0 +1,121 @@
+{
+    "itemCount": 0,
+    "items": [{
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "37402",
+        "ORG_NAME": "青岛供电公司",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 2.11,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740220",
+        "ORG_NAME": "胶州市客户服务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 1.07,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740221",
+        "ORG_NAME": "即墨-市客户服-务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 3.68,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740222",
+        "ORG_NAME": "平度市-客户服-务中心",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 12.82,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740223",
+        "ORG_NAME": "胶南-市客户服务-中心",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 1.88,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }, 
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西市-客户服务-中心",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 0,
+        "AVG_ZDHDL": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西市-客户服务-中心1",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 0,
+        "AVG_ZDHDL": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西市-客户服务-中心2",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 0,
+        "AVG_ZDHDL": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西市-客户服务-中心3",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 0,
+        "AVG_ZDHDL": 0,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    },
+    {
+        "DATAFLAG": 0,
+        "ORGNO_CITY": "37402",
+        "ORGNAME_CITY": "青岛供电公司",
+        "ORG_NO": "3740224",
+        "ORG_NAME": "莱西市-客户服务-中心4",
+        "DISPACH_PERSONS": null,
+        "AVG_ZDJDSC": 100,
+        "AVG_ZDHDL": 100,
+        "TJRQ": "2019-03-24",
+        "SJRQ": "2019-03-24"
+    }
+],
+    "dicItems": []
+}
